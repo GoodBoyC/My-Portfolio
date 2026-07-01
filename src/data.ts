@@ -108,10 +108,30 @@ export const projects = [
   // └─────────────────────────────────────────────────────────────────────────┘
 
   {
+    title: "Luvia Global — Meeting Flyer",
+    client: "Luvia Global",
+    category: "Flyer Design",
+    year: "2026",
+    description:
+      "A vibrant restaurant menu flyer showcasing Nigerian fast food and bar offerings. Bold red background creates appetite appeal, circular food photos highlight key dishes, and a clear drink lineup shows beverage options. Payment method icons (MTN, Glo, Airtel, 9mobile) make it easy for customers to know they can pay via transfer.",
+    image: "/images/de-tasty.jpg",
+    accent: "from-red-600 to-red-800",
+    story: {
+      problem:
+        "The restaurant needed a menu flyer that could work both as a printed handout and social media post — something that would make people hungry and drive immediate orders.",
+      solution:
+        "I used a bold red color scheme (known to stimulate appetite), arranged food photos in overlapping circles for visual interest, and organized the menu into scannable columns with clear pricing contact info.",
+      designThinking:
+        "Red is the #1 color for food brands — it creates urgency and appetite. The circular photo frames feel friendly and approachable. Showing both food AND drinks communicates they're a full restaurant + bar. Payment icons remove friction for customers.",
+      clientNote:
+        "This flyer was exactly what De Tasty needed — an eye-catching menu that makes people want to order immediately and clearly communicates all their offerings.",
+    },
+  },
+  {
     title: "De Tasty Fastfood & Bar — Menu Flyer",
     client: "De Tasty Fastfood & Bar",
     category: "Print Design",
-    year: "2025",
+    year: "2026",
     description:
       "A vibrant restaurant menu flyer showcasing Nigerian fast food and bar offerings. Bold red background creates appetite appeal, circular food photos highlight key dishes, and a clear drink lineup shows beverage options. Payment method icons (MTN, Glo, Airtel, 9mobile) make it easy for customers to know they can pay via transfer.",
     image: "/images/de-tasty.jpg",
@@ -131,7 +151,7 @@ export const projects = [
     title: "Favy's Zobo Drink — Product Label",
     client: "Favy's Natural Products",
     category: "Packaging / Print",
-    year: "2025",
+    year: "2026",
     description:
       "A product label and promotional flyer for a natural zobo drink brand. Dynamic splash photography, bold 3D typography for 'ZOBO', and ingredient callouts emphasize the natural, healthy positioning. Green badges highlight '100% Natural' and 'No Sugar, No Preservatives'.",
     image: "/images/favys-zobo.jpg",
@@ -151,7 +171,7 @@ export const projects = [
     title: "Favy's Tigernut Drink — Product Label",
     client: "Favy's Natural Products",
     category: "Packaging / Print",
-    year: "2025",
+    year: "2026",
     description:
       "A companion product label for Favy's Tigernut Drink, maintaining brand consistency with the Zobo label while establishing its own identity. Cream background suggests the drink's color, with ingredient photography (tigernuts, coconut, dates, banana) and a milk splash visual.",
     image: "/images/favys-tigernut.jpg",
@@ -171,7 +191,7 @@ export const projects = [
     title: "Rachikelly Perfumes & Cosmetics — Promotional Flyer",
     client: "Rachikelly Perfumes & Cosmetics",
     category: "Social Media / Print",
-    year: "2025",
+    year: "2026",
     description:
       "A luxury beauty promotional flyer for a perfume and cosmetics retailer. Elegant pink gradient background, sophisticated serif typography, and a glamorous hero image with bold makeup. Product grid showcases perfumes, body sprays, and luxury cosmetics with the tagline 'Your Scent, Your Signature'.",
     image: "/images/rachikelly.jpg",
