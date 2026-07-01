@@ -113,18 +113,18 @@ export const projects = [
     category: "Flyer Design",
     year: "2026",
     description:
-      "A vibrant restaurant menu flyer showcasing Nigerian fast food and bar offerings. Bold red background creates appetite appeal, circular food photos highlight key dishes, and a clear drink lineup shows beverage options. Payment method icons (MTN, Glo, Airtel, 9mobile) make it easy for customers to know they can pay via transfer.",
-    image: "/images/de-tasty.jpg",
-    accent: "from-red-600 to-red-800",
+      "A dramatic event promotional flyer for Luvia Global's webinar on strategy and situational awareness. Dark gradient background with green accents creates intrigue and urgency. Bold typography announces PLAY OR GET PLAYED while visual elements like chess pieces, masks, and an alarm clock reinforce themes of strategy, deception, and time-sensitive action.",
+    image: "/images/luvia-flyer.jpg",
+    accent: "from-green-600 to-emerald-700",
     story: {
       problem:
-        "The restaurant needed a menu flyer that could work both as a printed handout and social media post — something that would make people hungry and drive immediate orders.",
+        "Luvia Global needed to promote an upcoming webinar on detecting manipulation and navigating difficult situations. The challenge was creating a flyer that felt urgent and compelling without being alarming — something that would grab attention in a crowded social media feed and drive registrations for a Google Meet event.",
       solution:
-        "I used a bold red color scheme (known to stimulate appetite), arranged food photos in overlapping circles for visual interest, and organized the menu into scannable columns with clear pricing contact info.",
+        "I created a high-contrast design with a dark background and bold green gradient text that stops the scroll. The chess pieces symbolize strategy and thinking ahead, the masks represent hidden motives and deception, and the alarm clock creates urgency around the event date. Clear hierarchy ensures all key details (host, date, time, platform) are easy to find at a glance.",
       designThinking:
-        "Red is the #1 color for food brands — it creates urgency and appetite. The circular photo frames feel friendly and approachable. Showing both food AND drinks communicates they're a full restaurant + bar. Payment icons remove friction for customers.",
+        "Green on black: Creates a mysterious, serious tone that matches the topic of manipulation and strategy.",
       clientNote:
-        "This flyer was exactly what De Tasty needed — an eye-catching menu that makes people want to order immediately and clearly communicates all their offerings.",
+        "This flyer was exactly what Luvia Global needed — a bold, attention-grabbing design that creates urgency and curiosity. The strategic use of symbols (chess, masks, clock) communicates the webinar's theme before viewers even read the title, while the clear event details make it easy for interested people to register and attend.",
     },
   },
   {
