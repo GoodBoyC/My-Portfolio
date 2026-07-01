@@ -244,7 +244,7 @@ export const projects = [
       designThinking:
         "I chose maroon as the primary color because it feels trustworthy and professional. Gold accents suggest value and returns. The layout flows top-to-bottom with clear visual breaks between sections.",
       clientNote:
-        "This design was exactly what Harry Dynasty needed — a clear, professional flyer that makes their investment opportunity easy to understand at a glance.",
+        "This design is exactly what Harry Dynasty would need — a clear, professional flyer that makes their investment opportunity easy to understand at a glance.",
     },
   },
   {
